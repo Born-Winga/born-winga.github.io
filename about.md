@@ -40,7 +40,7 @@ I solve high-impact problems at the intersection of **software engineering** **F
 ---
 
 ### **📌 Current Focus**  
-- **Building Alternative Financial Score models for the un banked in Kenya at Kamoa** for emerging markets.  
+- Building Alternative Financial Score models for the unbanked in Kenya at Kamoa.  
 ---
 
 ### **📬 Let’s Connect!**   
