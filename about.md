@@ -38,8 +38,7 @@ I solve high-impact problems at the intersection of **software engineering** **F
 - **Mentored engineers** on full-stack best practices and IoT architecture.  
 
 ---
-
-### **📌 Current Focus**  
+**📌Current Focus** 
 - Building Alternative Financial Score models for the unbanked in Kenya at Kamoa.  
 ---
 
